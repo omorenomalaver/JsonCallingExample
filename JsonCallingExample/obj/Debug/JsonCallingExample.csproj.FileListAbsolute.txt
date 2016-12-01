@@ -1,0 +1,11 @@
+C:\workshop\code\Visual Studio\2015\JsonCallingExample\JsonCallingExample\bin\Debug\JsonCallingExample.exe.config
+C:\workshop\code\Visual Studio\2015\JsonCallingExample\JsonCallingExample\bin\Debug\JsonCallingExample.exe
+C:\workshop\code\Visual Studio\2015\JsonCallingExample\JsonCallingExample\bin\Debug\JsonCallingExample.pdb
+C:\workshop\code\Visual Studio\2015\JsonCallingExample\JsonCallingExample\obj\Debug\JsonCallingExample.csprojResolveAssemblyReference.cache
+C:\workshop\code\Visual Studio\2015\JsonCallingExample\JsonCallingExample\obj\Debug\JsonCallingExample.Form1.resources
+C:\workshop\code\Visual Studio\2015\JsonCallingExample\JsonCallingExample\obj\Debug\JsonCallingExample.Properties.Resources.resources
+C:\workshop\code\Visual Studio\2015\JsonCallingExample\JsonCallingExample\obj\Debug\JsonCallingExample.csproj.GenerateResource.Cache
+C:\workshop\code\Visual Studio\2015\JsonCallingExample\JsonCallingExample\obj\Debug\JsonCallingExample.exe
+C:\workshop\code\Visual Studio\2015\JsonCallingExample\JsonCallingExample\obj\Debug\JsonCallingExample.pdb
+C:\workshop\code\Visual Studio\2015\JsonCallingExample\JsonCallingExample\bin\Debug\Newtonsoft.Json.dll
+C:\workshop\code\Visual Studio\2015\JsonCallingExample\JsonCallingExample\bin\Debug\Newtonsoft.Json.xml
